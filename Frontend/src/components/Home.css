@@ -1,0 +1,54 @@
+.home1 {
+    text-align: center;
+    background-image: url('/public/images/ground1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-attachment: fixed;  */
+    background-position: center;
+    /* margin: 0; */
+    height: 100%;
+    width: 100%;
+}
+.home1 h2{
+    color: white;
+}
+
+.content {
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.footer {
+    background-color:rgb(34, 28, 62);
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-content p {
+    margin: 5px 0;
+}
+
+.social-media-icons {
+    margin-top: 10px;
+}
+
+.social-media-icons a {
+    margin: 0 10px;
+    display: inline-block;
+}
+
+.social-media-icons img {
+    width: 24px;
+    height: 24px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
